@@ -67,4 +67,21 @@
 
 <hr/>
 
+<div align="center">
+    <h3>🌐 Connect with Me 🌐</h3>
+    <p>Let's build something amazing together.</p>
+    <a href="mailto:queisecarvalhodev@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/queise-carvalho-de-oliveira-50359749/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Qcarvalhooliveira" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</div>
+
+<div align="center">
+    <p>⭐️ From <a href="https://github.com/Qcarvalhooliveira">Queise Carvalho</a></p>
+</div>
 
