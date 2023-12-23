@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Qcarvalhooliveira.Qcarvalhooliveira" />
 
 <h1 align="center">
-    <img src="https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/blob/master/image/Hi%20There!.gif" style="height: 17rem; width: 38rem;"/>
+    <img src="https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/blob/master/image/Hi%20There!.gif" style="height: 17rem; width: 50rem;"/>
 </h1>
 
 <h3 align="center">A passionate full-stack student at Holberton School</h3>
