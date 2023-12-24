@@ -76,6 +76,6 @@
 </div>
 
 <div align="center">
-    <p>⭐️ From <a href="https://github.com/Qcarvalhooliveira">Queise Carvalho</a></p>
+    <p>⭐️ From <a href="https://github.com/Qcarvalhooliveira?tab=repositories">Queise Carvalho</a></p>
 </div>
 
