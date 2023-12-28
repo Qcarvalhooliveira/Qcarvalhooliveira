@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Qcarvalhooliveira.Qcarvalhooliveira" />
 
 <h1 align="center">
-    <img src="https://www.canva.com/design/DAF4R3zd4SQ/U-nM2aLlmGoQlSLWViHbww/watch?utm_content=DAF4R3zd4SQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" style="width: 50rem;"/>
+    <img src="https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/blob/master/image/Hi%20There!.gif" style="width: 50rem;"/>
 </h1>
 
 <h3 align="center">⭐️A passionate full-stack student at Holberton School⭐️</h3>
