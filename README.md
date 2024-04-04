@@ -26,9 +26,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
  <a href="https://qcarvalhooliveira.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" />
+  <img src="https://img.shields.io/badge/Portfolio-663399?style=for-the-badge&logo=clipboard&logoColor=white" alt="Portfolio Badge" />
 </a>
-
 </div>
 
 <hr/>
