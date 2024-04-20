@@ -1,5 +1,5 @@
 <h1 align="right">
-![visitors](https://komarev.com/ghpvc/?username=Qcarvalhooliveira&color=blueviolet&style=plastic&base=1633)
+    <img src="https://komarev.com/ghpvc/?username=Qcarvalhooliveira&color=blueviolet&style=plastic&base=1633" alt="visitors">
 </h1>
 
 <h1 align="center">
