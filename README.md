@@ -1,5 +1,6 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Qcarvalhooliveira.Qcarvalhooliveira)
-
+<h1 align="right">
+![visitors](https://komarev.com/ghpvc/?username=Qcarvalhooliveira&color=blueviolet&style=plastic&base=1633)
+</h1>
 
 <h1 align="center">
     <img src="https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/blob/master/image/Hi%20There!.gif" style="width: 50rem;"/>
