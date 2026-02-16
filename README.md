@@ -6,7 +6,7 @@
     <img src="https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/blob/master/image/Hi%20There!.gif" style="width: 50rem;"/>
 </h1>
 
-<h3 align="center">⭐️A passionate full-stack student at Holberton School⭐️</h3>
+<h3 align="center">⭐️A passionate Full-Stack Developer | RNCP Level 6 Certified⭐️</h3>
 
 <br/>
 
