@@ -12,11 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently studying **Full-Stack Development** at **Holberton School**
+ 💻 Full-Stack Developer (RNCP Level 6) — Holberton School Paris Graduate
  
- 🌱 I’m currently learning **Web Development, Data Structures, Algorithms**
-
-💬 Ask me about **JavaScript, Python, HTML, CSS... or anything [here](https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/issues)**
+ 🚀 Currently building scalable web applications with React, TypeScript and Python
+ 
+ 🧠 Passionate about clean architecture, UI/UX and problem solving
+ 
+ 💬 Ask me about TypeScript, Python, React... or anything[here](https://github.com/Qcarvalhooliveira/Qcarvalhooliveira/issues)**
 
  </div>
  
