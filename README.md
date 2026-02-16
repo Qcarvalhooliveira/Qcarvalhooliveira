@@ -60,23 +60,27 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <div align="center">
+  <!-- Streak (Demolab) -->
   <img
     width="390"
-    src="https://streak-stats.demolab.com?user=Qcarvalhooliveira&theme=react&border_radius=10"
+    src="https://streak-stats.demolab.com?user=Qcarvalhooliveira&amp;theme=react&amp;border_radius=10&amp;cache_seconds=21600"
     alt="GitHub streak stats"
   />
 
+  <!-- GitHub Readme Stats (use uma instância alternativa mais estável) -->
   <img
     width="390"
-    src="https://github-readme-stats.vercel.app/api?username=Qcarvalhooliveira&show_icons=true&theme=react&rank_icon=github&border_radius=10"
-    alt="GitHub readme stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Qcarvalhooliveira&amp;show_icons=true&amp;theme=react&amp;rank_icon=github&amp;border_radius=10&amp;cache_seconds=21600"
+    alt="GitHub stats"
   />
-  <br/>
+  <br />
 
+  <!-- Top Langs -->
   <img
     width="325"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qcarvalhooliveira&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Qcarvalhooliveira&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;border_radius=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;cache_seconds=21600"
     alt="Top languages"
   />
 </div>
